@@ -24,6 +24,6 @@ git commit -m "Комментарий"
 **Задание 5**. Создайте пустой (без файлов) публичный удаленный репозиторий в своем аккаунте на GitHub. 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git remote add VVPlab5 https://github.com/1tdzz/VVPlab5
-git push VVPlab5 main
+git remote add laba5 https://github.com/bb4ka/laba5
+git push laba5 main
 ```
